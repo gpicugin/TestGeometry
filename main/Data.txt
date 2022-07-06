@@ -1,100 +1,299 @@
-Value of curve in PI/4 is [6.6084,6.6084,-0.811309] | Value of derivative function is [-6.6084,6.6084,-1.03299]
-Value of curve in PI/4 is [1.54015,1.28508,0] | Value of derivative function is [-1.54015,1.28508,0]
-Value of curve in PI/4 is [6.22147,0.550718,0] | Value of derivative function is [-6.22147,0.550718,0]
-Value of curve in PI/4 is [2.9832,5.94784,0] | Value of derivative function is [-2.9832,5.94784,0]
-Value of curve in PI/4 is [4.79029,4.79029,0] | Value of derivative function is [-4.79029,4.79029,0]
-Value of curve in PI/4 is [4.06241,5.0909,0] | Value of derivative function is [-4.06241,5.0909,0]
-Value of curve in PI/4 is [4.53652,4.53652,-0.728807] | Value of derivative function is [-4.53652,4.53652,-0.927946]
-Value of curve in PI/4 is [2.37249,2.37249,0] | Value of derivative function is [-2.37249,2.37249,0]
-Value of curve in PI/4 is [5.2111,4.50501,0] | Value of derivative function is [-5.2111,4.50501,0]
-Value of curve in PI/4 is [6.51906,6.51906,0] | Value of derivative function is [-6.51906,6.51906,0]
-Value of curve in PI/4 is [2.77366,2.77366,-0.535567] | Value of derivative function is [-2.77366,2.77366,-0.681906]
-Value of curve in PI/4 is [0.497847,0.497847,-1.0382] | Value of derivative function is [-0.497847,0.497847,-1.32188]
-Value of curve in PI/4 is [4.90165,0.945197,0] | Value of derivative function is [-4.90165,0.945197,0]
-Value of curve in PI/4 is [5.60946,5.60946,-0.799228] | Value of derivative function is [-5.60946,5.60946,-1.01761]
-Value of curve in PI/4 is [5.67075,5.67075,0] | Value of derivative function is [-5.67075,5.67075,0]
-Value of curve in PI/4 is [1.73308,1.73308,0] | Value of derivative function is [-1.73308,1.73308,0]
-Value of curve in PI/4 is [1.8481,1.8481,-1.50905] | Value of derivative function is [-1.8481,1.8481,-1.92138]
-Value of curve in PI/4 is [5.36561,5.36561,-0.618932] | Value of derivative function is [-5.36561,5.36561,-0.788049]
-Value of curve in PI/4 is [0.19465,0.19465,0] | Value of derivative function is [-0.19465,0.19465,0]
-Value of curve in PI/4 is [5.94223,5.94223,0] | Value of derivative function is [-5.94223,5.94223,0]
-Value of curve in PI/4 is [5.99337,5.99337,0] | Value of derivative function is [-5.99337,5.99337,0]
-Value of curve in PI/4 is [2.57318,2.57318,-0.541416] | Value of derivative function is [-2.57318,2.57318,-0.689352]
-Value of curve in PI/4 is [3.38501,3.38501,-0.183556] | Value of derivative function is [-3.38501,3.38501,-0.233711]
-Value of curve in PI/4 is [3.02981,3.02981,-0.651291] | Value of derivative function is [-3.02981,3.02981,-0.829249]
-Value of curve in PI/4 is [6.39929,6.39929,-0.887771] | Value of derivative function is [-6.39929,6.39929,-1.13034]
-Value of curve in PI/4 is [1.0928,1.0928,0] | Value of derivative function is [-1.0928,1.0928,0]
-Value of curve in PI/4 is [4.33604,4.33604,0] | Value of derivative function is [-4.33604,4.33604,0]
-Value of curve in PI/4 is [4.24756,5.97978,0] | Value of derivative function is [-4.24756,5.97978,0]
-Value of curve in PI/4 is [6.64875,4.106,0] | Value of derivative function is [-6.64875,4.106,0]
-Value of curve in PI/4 is [6.13299,6.13299,-0.334849] | Value of derivative function is [-6.13299,6.13299,-0.426344]
-Value of curve in PI/4 is [2.64893,2.64893,0] | Value of derivative function is [-2.64893,2.64893,0]
-Value of curve in PI/4 is [1.30342,1.30342,0] | Value of derivative function is [-1.30342,1.30342,0]
-Value of curve in PI/4 is [6.73097,6.73097,-1.32262] | Value of derivative function is [-6.73097,6.73097,-1.68401]
-Value of curve in PI/4 is [6.37382,0.436344,0] | Value of derivative function is [-6.37382,0.436344,0]
-Value of curve in PI/4 is [4.6565,4.6565,0] | Value of derivative function is [-4.6565,4.6565,0]
-Value of curve in PI/4 is [6.88483,6.88483,-0.569268] | Value of derivative function is [-6.88483,6.88483,-0.724815]
-Value of curve in PI/4 is [0.211698,0.211698,0] | Value of derivative function is [-0.211698,0.211698,0]
-Value of curve in PI/4 is [3.56866,5.37899,0] | Value of derivative function is [-3.56866,5.37899,0]
-Value of curve in PI/4 is [6.26463,3.82481,0] | Value of derivative function is [-6.26463,3.82481,0]
-Value of curve in PI/4 is [2.76718,2.76718,-0.821328] | Value of derivative function is [-2.76718,2.76718,-1.04575]
-Value of curve in PI/4 is [5.06673,3.77712,0] | Value of derivative function is [-5.06673,3.77712,0]
-Value of curve in PI/4 is [0.109194,4.89194,0] | Value of derivative function is [-0.109194,4.89194,0]
-Value of curve in PI/4 is [1.54835,1.37852,0] | Value of derivative function is [-1.54835,1.37852,0]
-Value of curve in PI/4 is [3.74259,3.74259,-1.55598] | Value of derivative function is [-3.74259,3.74259,-1.98114]
-Value of curve in PI/4 is [3.18626,3.94091,0] | Value of derivative function is [-3.18626,3.94091,0]
-Value of curve in PI/4 is [3.59844,3.59844,-0.693524] | Value of derivative function is [-3.59844,3.59844,-0.883023]
-Value of curve in PI/4 is [6.63149,6.63149,-0.528377] | Value of derivative function is [-6.63149,6.63149,-0.67275]
-Value of curve in PI/4 is [5.31512,3.6567,0] | Value of derivative function is [-5.31512,3.6567,0]
-Value of curve in PI/4 is [5.68974,6.24068,0] | Value of derivative function is [-5.68974,6.24068,0]
-Value of curve in PI/4 is [6.93468,6.0143,0] | Value of derivative function is [-6.93468,6.0143,0]
-Value of curve in PI/4 is [0.0410017,0.0410017,-0.359298] | Value of derivative function is [-0.0410017,0.0410017,-0.457472]
-Value of curve in PI/4 is [4.94394,3.73267,0] | Value of derivative function is [-4.94394,3.73267,0]
-Value of curve in PI/4 is [2.5106,6.41482,0] | Value of derivative function is [-2.5106,6.41482,0]
-Value of curve in PI/4 is [5.54019,6.69018,0] | Value of derivative function is [-5.54019,6.69018,0]
-Value of curve in PI/4 is [4.99681,4.99681,0] | Value of derivative function is [-4.99681,4.99681,0]
-Value of curve in PI/4 is [4.33863,2.97629,0] | Value of derivative function is [-4.33863,2.97629,0]
-Value of curve in PI/4 is [2.54016,2.54016,-0.269701] | Value of derivative function is [-2.54016,2.54016,-0.343394]
-Value of curve in PI/4 is [5.25404,5.25404,-1.27645] | Value of derivative function is [-5.25404,5.25404,-1.62523]
-Value of curve in PI/4 is [3.18454,3.18454,-0.412605] | Value of derivative function is [-3.18454,3.18454,-0.525346]
-Value of curve in PI/4 is [6.79463,5.65176,0] | Value of derivative function is [-6.79463,5.65176,0]
-Value of curve in PI/4 is [1.07791,6.90512,0] | Value of derivative function is [-1.07791,6.90512,0]
-Value of curve in PI/4 is [0.744505,0.744505,0] | Value of derivative function is [-0.744505,0.744505,0]
-Value of curve in PI/4 is [1.25142,1.25142,-1.46773] | Value of derivative function is [-1.25142,1.25142,-1.86877]
-Value of curve in PI/4 is [4.6224,4.6224,0] | Value of derivative function is [-4.6224,4.6224,0]
-Value of curve in PI/4 is [5.68888,5.68888,0] | Value of derivative function is [-5.68888,5.68888,0]
-Value of curve in PI/4 is [4.46962,4.46962,-1.39807] | Value of derivative function is [-4.46962,4.46962,-1.78008]
-Value of curve in PI/4 is [4.8669,4.8669,0] | Value of derivative function is [-4.8669,4.8669,0]
-Value of curve in PI/4 is [6.2875,2.56304,0] | Value of derivative function is [-6.2875,2.56304,0]
-Value of curve in PI/4 is [2.82588,2.82588,-0.155991] | Value of derivative function is [-2.82588,2.82588,-0.198614]
-Value of curve in PI/4 is [1.00044,1.00044,-1.23216] | Value of derivative function is [-1.00044,1.00044,-1.56883]
-Value of curve in PI/4 is [4.00716,2.26135,0] | Value of derivative function is [-4.00716,2.26135,0]
-Value of curve in PI/4 is [0.574024,4.12563,0] | Value of derivative function is [-0.574024,4.12563,0]
-Value of curve in PI/4 is [5.7096,5.7096,-0.218599] | Value of derivative function is [-5.7096,5.7096,-0.278329]
-Value of curve in PI/4 is [2.03908,2.03908,0] | Value of derivative function is [-2.03908,2.03908,0]
-Value of curve in PI/4 is [2.557,2.557,-0.596401] | Value of derivative function is [-2.557,2.557,-0.759362]
-Value of curve in PI/4 is [0.923617,6.42324,0] | Value of derivative function is [-0.923617,6.42324,0]
-Value of curve in PI/4 is [0.36621,1.57295,0] | Value of derivative function is [-0.36621,1.57295,0]
-Value of curve in PI/4 is [4.04039,4.04039,0] | Value of derivative function is [-4.04039,4.04039,0]
-Value of curve in PI/4 is [5.53048,5.53048,-0.749229] | Value of derivative function is [-5.53048,5.53048,-0.953948]
-Value of curve in PI/4 is [0.0157533,0.0157533,0] | Value of derivative function is [-0.0157533,0.0157533,0]
-Value of curve in PI/4 is [2.69295,3.23827,0] | Value of derivative function is [-2.69295,3.23827,0]
-Value of curve in PI/4 is [5.49099,5.49099,0] | Value of derivative function is [-5.49099,5.49099,0]
-Value of curve in PI/4 is [2.28099,2.28099,-0.428329] | Value of derivative function is [-2.28099,2.28099,-0.545366]
-Value of curve in PI/4 is [6.53136,6.53136,0] | Value of derivative function is [-6.53136,6.53136,0]
-Value of curve in PI/4 is [3.87833,1.61331,0] | Value of derivative function is [-3.87833,1.61331,0]
-Value of curve in PI/4 is [1.14244,1.14244,-1.06548] | Value of derivative function is [-1.14244,1.14244,-1.35661]
-Value of curve in PI/4 is [4.90208,4.90208,0] | Value of derivative function is [-4.90208,4.90208,0]
-Value of curve in PI/4 is [4.85223,4.85223,-0.925834] | Value of derivative function is [-4.85223,4.85223,-1.17881]
-Value of curve in PI/4 is [0.032154,2.0011,0] | Value of derivative function is [-0.032154,2.0011,0]
-Value of curve in PI/4 is [6.56567,6.56567,0] | Value of derivative function is [-6.56567,6.56567,0]
-Value of curve in PI/4 is [4.11571,0.0979725,0] | Value of derivative function is [-4.11571,0.0979725,0]
-Value of curve in PI/4 is [6.13191,4.17678,0] | Value of derivative function is [-6.13191,4.17678,0]
-Value of curve in PI/4 is [0.558918,0.558918,0] | Value of derivative function is [-0.558918,0.558918,0]
-Value of curve in PI/4 is [3.59391,3.59391,-1.32703] | Value of derivative function is [-3.59391,3.59391,-1.68963]
-Value of curve in PI/4 is [5.09975,5.09975,0] | Value of derivative function is [-5.09975,5.09975,0]
-Value of curve in PI/4 is [3.06909,3.06909,0] | Value of derivative function is [-3.06909,3.06909,0]
-Value of curve in PI/4 is [6.63926,6.63926,-0.0176413] | Value of derivative function is [-6.63926,6.63926,-0.0224616]
-Value of curve in PI/4 is [4.17851,0.0994831,0] | Value of derivative function is [-4.17851,0.0994831,0]
-Value of curve in PI/4 is [6.87965,6.87965,-1.08034] | Value of derivative function is [-6.87965,6.87965,-1.37553]
-Value of curve in PI/4 is [4.70462,4.70462,-1.33758] | Value of derivative function is [-4.70462,4.70462,-1.70305]
+Value of curve in PI/4 is [0.929818,0.929818,0]
+Value of derivative function is [-0.929818,0.929818,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.41764,5.41764,0]
+Value of derivative function is [-5.41764,5.41764,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.085,3.085,0]
+Value of derivative function is [-3.085,3.085,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.36195,6.9634,0]
+Value of derivative function is [-5.36195,6.9634,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [7.06875,1.01166,0]
+Value of derivative function is [-7.06875,1.01166,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.99084,2.99084,1.2971]
+Value of derivative function is [-2.99084,2.99084,1.65152]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.32967,5.86814,0]
+Value of derivative function is [-2.32967,5.86814,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.73345,0.866866,0]
+Value of derivative function is [-3.73345,0.866866,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.66319,3.66319,0]
+Value of derivative function is [-3.66319,3.66319,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.90224,5.90224,1.00573]
+Value of derivative function is [-5.90224,5.90224,1.28053]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.20407,0.838623,0]
+Value of derivative function is [-5.20407,0.838623,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.85012,1.85012,0]
+Value of derivative function is [-1.85012,1.85012,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.14455,6.14455,0]
+Value of derivative function is [-6.14455,6.14455,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.87558,4.87558,0]
+Value of derivative function is [-4.87558,4.87558,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.471178,0.471178,0.470351]
+Value of derivative function is [-0.471178,0.471178,0.598869]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.19159,4.19159,0.789803]
+Value of derivative function is [-4.19159,4.19159,1.00561]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.0493,2.0493,0]
+Value of derivative function is [-2.0493,2.0493,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.29556,5.29556,1.5647]
+Value of derivative function is [-5.29556,5.29556,1.99224]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.15568,1.15568,0]
+Value of derivative function is [-1.15568,1.15568,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.0784,1.35204,0]
+Value of derivative function is [-2.0784,1.35204,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.24095,5.24095,0]
+Value of derivative function is [-5.24095,5.24095,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.43396,4.06377,0]
+Value of derivative function is [-6.43396,4.06377,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.0152601,0.0152601,0]
+Value of derivative function is [-0.0152601,0.0152601,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.16291,6.16291,0.133856]
+Value of derivative function is [-6.16291,6.16291,0.170431]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.28118,4.09541,0]
+Value of derivative function is [-6.28118,4.09541,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.40924,2.40924,1.48142]
+Value of derivative function is [-2.40924,2.40924,1.8862]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.93956,1.93956,0]
+Value of derivative function is [-1.93956,1.93956,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.62529,2.62529,0]
+Value of derivative function is [-2.62529,2.62529,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.34326,1.34326,0.95688]
+Value of derivative function is [-1.34326,1.34326,1.21834]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.59898,6.59898,0]
+Value of derivative function is [-6.59898,6.59898,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.15963,1.30502,0]
+Value of derivative function is [-2.15963,1.30502,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.7803,2.7803,0]
+Value of derivative function is [-2.7803,2.7803,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.00275427,0.00275427,0]
+Value of derivative function is [-0.00275427,0.00275427,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.89597,2.82382,0]
+Value of derivative function is [-2.89597,2.82382,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.75653,2.58027,0]
+Value of derivative function is [-1.75653,2.58027,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.92915,7.02593,0]
+Value of derivative function is [-3.92915,7.02593,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.25353,4.25353,0.467519]
+Value of derivative function is [-4.25353,4.25353,0.595264]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.613749,0.613749,1.31216]
+Value of derivative function is [-0.613749,0.613749,1.67069]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.68132,4.68132,0]
+Value of derivative function is [-4.68132,4.68132,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.49653,4.49653,0]
+Value of derivative function is [-4.49653,4.49653,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.91572,1.91572,0]
+Value of derivative function is [-1.91572,1.91572,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.301865,0.301865,0.658733]
+Value of derivative function is [-0.301865,0.301865,0.838725]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.42358,5.82237,0]
+Value of derivative function is [-1.42358,5.82237,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.62073,6.62073,0.488804]
+Value of derivative function is [-6.62073,6.62073,0.622365]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.38936,3.38936,0]
+Value of derivative function is [-3.38936,3.38936,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.61638,3.61638,0.0418925]
+Value of derivative function is [-3.61638,3.61638,0.0533392]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.88431,3.81379,0]
+Value of derivative function is [-4.88431,3.81379,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.48446,4.48446,0]
+Value of derivative function is [-4.48446,4.48446,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.92526,6.8454,0]
+Value of derivative function is [-5.92526,6.8454,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.74682,1.96305,0]
+Value of derivative function is [-4.74682,1.96305,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.01405,1.01405,0]
+Value of derivative function is [-1.01405,1.01405,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.760201,0.760201,0]
+Value of derivative function is [-0.760201,0.760201,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.335031,0.335031,0.81623]
+Value of derivative function is [-0.335031,0.335031,1.03926]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.399948,0.399948,0]
+Value of derivative function is [-0.399948,0.399948,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.98109,1.98109,0]
+Value of derivative function is [-1.98109,1.98109,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.58192,2.58192,0]
+Value of derivative function is [-2.58192,2.58192,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.50516,5.50516,1.37923]
+Value of derivative function is [-5.50516,5.50516,1.75609]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.92515,1.92515,0.129393]
+Value of derivative function is [-1.92515,1.92515,0.164748]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.01476,2.04426,0]
+Value of derivative function is [-3.01476,2.04426,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.18497,5.18497,1.43722]
+Value of derivative function is [-5.18497,5.18497,1.82993]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.45372,5.45372,0]
+Value of derivative function is [-5.45372,5.45372,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.11854,1.11854,0.878872]
+Value of derivative function is [-1.11854,1.11854,1.11901]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.39852,3.39852,0.199274]
+Value of derivative function is [-3.39852,3.39852,0.253724]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.28402,1.28402,0]
+Value of derivative function is [-1.28402,1.28402,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.8245,5.8245,0]
+Value of derivative function is [-5.8245,5.8245,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.13237,2.13237,0]
+Value of derivative function is [-2.13237,2.13237,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.81724,6.3747,0]
+Value of derivative function is [-5.81724,6.3747,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.36851,6.36851,0]
+Value of derivative function is [-6.36851,6.36851,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.34411,1.42708,0]
+Value of derivative function is [-1.34411,1.42708,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.472505,0.472505,0]
+Value of derivative function is [-0.472505,0.472505,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.0921,2.4046,0]
+Value of derivative function is [-3.0921,2.4046,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.25531,5.93397,0]
+Value of derivative function is [-4.25531,5.93397,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.14855,4.14855,0]
+Value of derivative function is [-4.14855,4.14855,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.54939,2.33116,0]
+Value of derivative function is [-4.54939,2.33116,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.56165,3.12599,0]
+Value of derivative function is [-2.56165,3.12599,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.78315,3.40914,0]
+Value of derivative function is [-1.78315,3.40914,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.0405,5.0405,1.2248]
+Value of derivative function is [-5.0405,5.0405,1.55947]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.187434,0.187434,0.966645]
+Value of derivative function is [-0.187434,0.187434,1.23077]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.16624,3.46973,0]
+Value of derivative function is [-4.16624,3.46973,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.97039,4.97039,0]
+Value of derivative function is [-4.97039,4.97039,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [6.67114,6.67114,0]
+Value of derivative function is [-6.67114,6.67114,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.09902,3.06395,0]
+Value of derivative function is [-3.09902,3.06395,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.29324,2.29324,0]
+Value of derivative function is [-2.29324,2.29324,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.35186,1.35186,0.104755]
+Value of derivative function is [-1.35186,1.35186,0.133378]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.84646,3.84646,0.406701]
+Value of derivative function is [-3.84646,3.84646,0.517828]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.935442,5.33657,0]
+Value of derivative function is [-0.935442,5.33657,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [0.448799,0.448799,0.595344]
+Value of derivative function is [-0.448799,0.448799,0.758016]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.14772,2.14772,1.14899]
+Value of derivative function is [-2.14772,2.14772,1.46294]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [3.17021,3.17021,1.0209]
+Value of derivative function is [-3.17021,3.17021,1.29985]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.91098,3.4836,0]
+Value of derivative function is [-1.91098,3.4836,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [4.48658,4.48658,0]
+Value of derivative function is [-4.48658,4.48658,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.45934,6.73609,0]
+Value of derivative function is [-5.45934,6.73609,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.58297,4.68405,0]
+Value of derivative function is [-2.58297,4.68405,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.40525,2.40525,1.10839]
+Value of derivative function is [-2.40525,2.40525,1.41124]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.93347,1.93347,0.644319]
+Value of derivative function is [-1.93347,1.93347,0.820373]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [2.35,2.35,0]
+Value of derivative function is [-2.35,2.35,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.83867,1.83867,0]
+Value of derivative function is [-1.83867,1.83867,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.30582,2.95764,0]
+Value of derivative function is [-5.30582,2.95764,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [1.27885,6.82026,0]
+Value of derivative function is [-1.27885,6.82026,0]
+///////////////////////////////////////////////////
+Value of curve in PI/4 is [5.10912,5.10912,0.063411]
+Value of derivative function is [-5.10912,5.10912,0.0807374]

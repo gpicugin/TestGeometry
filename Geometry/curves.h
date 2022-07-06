@@ -1,5 +1,4 @@
 #pragma once
-#include <math.h>
 #include <iostream>
 #define GEOMETRY_API_EXPORTS
 #ifdef GEOMETRY_API_EXPORTS
@@ -12,16 +11,14 @@ struct GEOMETRY_API Point
 {
 	double x;
 	double y;
-	double z;
-	Point operator+ (Point pnt);
-	Point operator- (Point pnt);
+	double z;	
 	GEOMETRY_API friend std::ostream& operator<< (std::ostream& out, Point pnt);
 };
 
 enum GEOMETRY_API figure
 {
-	curcle = 0,
-	ellips,
+	circle = 0,
+	ellipse,
 	helix
 };
 
@@ -30,36 +27,33 @@ class GEOMETRY_API iCurve
 public:
 	virtual Point pnt(double t) = 0;
 	virtual Point vec(double t) = 0;
-	virtual figure isFigure() = 0;
+	virtual figure figureType() = 0;
 };
 
-class GEOMETRY_API Curcle: public iCurve
+class GEOMETRY_API Circle: public iCurve
 {
 public:
-	Curcle();
-	Curcle(double radii);
-	Curcle(const Curcle& curcle);
-	//~Curcle();
+	Circle();
+	Circle(double raduis);	
+	//~Circle();
 	const double getRad();
 	Point pnt(double t);
 	Point vec(double t);
-	figure isFigure();
-private:
-	Point m_centr;
+	figure figureType();
+private:	
 	double m_r;	
 };
 
-class GEOMETRY_API Ellips : public iCurve
+class GEOMETRY_API Ellipse : public iCurve
 {
 public:
-	Ellips();
-	Ellips(double a, double b);
-	//~Ellips();
+	Ellipse();
+	Ellipse(double a, double b);
+	//~Ellipse();
 	Point pnt(double t);
 	Point vec(double t);
-	figure isFigure();
+	figure figureType();
 private:
-	Point m_centr;
 	double m_a_r; // X
 	double m_b_r; // Y
 };
@@ -68,13 +62,12 @@ class GEOMETRY_API Helix : public iCurve
 {
 public:
 	Helix();
-	Helix(double radii, double step);
+	Helix(double raduis, double step);
 	//~Helix();
 	Point pnt(double t);
 	Point vec(double t);
-	figure isFigure();
+	figure figureType();
 private:
-	Point m_centr;
 	double m_r;
 	double m_step;
 };
