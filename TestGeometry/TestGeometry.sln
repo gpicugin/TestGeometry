@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "main", "..\main\main.vcxproj", "{AB1A16BD-46B9-4CE2-A703-FDD5ADF412BA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{02950D1F-9C32-4AC5-AEC4-EE134E56704D} = {02950D1F-9C32-4AC5-AEC4-EE134E56704D}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Geometry", "..\Geometry\Geometry.vcxproj", "{02950D1F-9C32-4AC5-AEC4-EE134E56704D}"
 EndProject

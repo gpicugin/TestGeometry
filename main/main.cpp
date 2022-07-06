@@ -34,12 +34,13 @@ void fillVec(std::vector<iCurve_ptr>& curves, int n)
 {
 	std::random_device rd;
 	std::mt19937 gen(rd());
+	std::uniform_int_distribution<> distribution(0, 2);
 	std::uniform_real_distribution<> distribution_10(0.0, 10.0);
 	std::uniform_real_distribution<> distribution_2(0.0, 2.0);
 	curves.resize(n);
 	for (int i = 0; i < n; i++)
 	{
-		int dice = rand() % 3;
+		int dice = distribution(gen);
 		switch (dice)
 		{
 		case 0:
@@ -113,7 +114,6 @@ double sumRad(std::vector<Circle*>& circles)
 
 void main()
 {	
-	srand(time(NULL));
 	std::vector<iCurve_ptr> curves;
 	std::vector<Circle*> circles;
 	

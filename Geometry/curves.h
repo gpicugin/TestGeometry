@@ -34,8 +34,7 @@ class GEOMETRY_API Circle: public iCurve
 {
 public:
 	Circle();
-	Circle(double raduis);	
-	//~Circle();
+	Circle(double raduis);
 	const double getRad();
 	Point pnt(double t);
 	Point vec(double t);
@@ -49,7 +48,6 @@ class GEOMETRY_API Ellipse : public iCurve
 public:
 	Ellipse();
 	Ellipse(double a, double b);
-	//~Ellipse();
 	Point pnt(double t);
 	Point vec(double t);
 	figure figureType();
@@ -63,7 +61,6 @@ class GEOMETRY_API Helix : public iCurve
 public:
 	Helix();
 	Helix(double raduis, double step);
-	//~Helix();
 	Point pnt(double t);
 	Point vec(double t);
 	figure figureType();
